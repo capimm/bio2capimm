@@ -1,0 +1,46 @@
+{
+  "prizes": [
+    {
+      "id": 1,
+      "name": "10 Moedas",
+      "value": 10,
+      "color": "#ff0000",
+      "probability": 30
+    },
+    {
+      "id": 2,
+      "name": "25 Moedas",
+      "value": 25,
+      "color": "#00ff00",
+      "probability": 25
+    },
+    {
+      "id": 3,
+      "name": "50 Moedas",
+      "value": 50,
+      "color": "#0000ff",
+      "probability": 20
+    },
+    {
+      "id": 4,
+      "name": "100 Moedas",
+      "value": 100,
+      "color": "#ffff00",
+      "probability": 15
+    },
+    {
+      "id": 5,
+      "name": "Jackpot!",
+      "value": 500,
+      "color": "#ff00ff",
+      "probability": 8
+    },
+    {
+      "id": 6,
+      "name": "Tente novamente",
+      "value": 0,
+      "color": "#00ffff",
+      "probability": 2
+    }
+  ]
+}

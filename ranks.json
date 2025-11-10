@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Membro",
+    "minPoints": 0,
+    "color": "#00ff00"
+  },
+  {
+    "id": 2,
+    "name": "Bronze",
+    "minPoints": 100,
+    "color": "#cd7f32"
+  },
+  {
+    "id": 3,
+    "name": "Prata",
+    "minPoints": 250,
+    "color": "#c0c0c0"
+  },
+  {
+    "id": 4,
+    "name": "Ouro",
+    "minPoints": 500,
+    "color": "#ffd700"
+  },
+  {
+    "id": 5,
+    "name": "Diamante",
+    "minPoints": 1000,
+    "color": "#b9f2ff"
+  },
+  {
+    "id": 6,
+    "name": "Mestre",
+    "minPoints": 2000,
+    "color": "#ff6b6b"
+  }
+]
